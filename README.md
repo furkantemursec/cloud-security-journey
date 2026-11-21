@@ -7,7 +7,7 @@ Welcome to my learning log! Here, I document my daily progress, command-line che
 ### 🗺️ 6-Month Foundation Roadmap
 
 #### Phase 1: Linux & Command Line (Months 1–2)
-- [ ] Basic navigation, file manipulation, and permissions (`chmod`, `chown`)
+- [X] Basic navigation, file manipulation, and permissions (`chmod`, `chown`)
 - [ ] Process management & system monitoring (`ps`, `top`, `systemctl`)
 - [ ] Text processing & log filtering (`grep`, `awk`, `sed`)
 - [ ] Complete **OverTheWire: Bandit** (Levels 0–25)
@@ -32,4 +32,4 @@ Welcome to my learning log! Here, I document my daily progress, command-line che
 | Date | Topic / Lab | Key Takeaways & Commands Learned |
 | :--- | :--- | :--- |
 | **Nov 20, 2026** | Setup & Kickoff | Created GitHub profile, set up learning repository, and defined the 6-month roadmap. |
-| *Next Entry* | *Linux Basics* | *Coming soon...* |
+| **Nov 21, 2026** | Linux & Bandit (Lvl 0–7) | Learned file permissions (chmod), hidden files, file, find, grep, and stderr redirection (2>/dev/null). |
