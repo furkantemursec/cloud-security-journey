@@ -33,3 +33,5 @@ Welcome to my learning log! Here, I document my daily progress, command-line che
 | :--- | :--- | :--- |
 | **Nov 20, 2026** | Setup & Kickoff | Created GitHub profile, set up learning repository, and defined the 6-month roadmap. |
 | **Nov 21, 2026** | Linux & Bandit (Lvl 0–7) | Learned file permissions (chmod), hidden files, file, find, grep, and stderr redirection (2>/dev/null). |
+| **Nov 22, 2026** | Linux & Bandit (Lvl 8–10) | Reviewed Levels 0–7 solo; mastered pipes (\|\), sort/uniq, strings, and base64 decoding. |
+
