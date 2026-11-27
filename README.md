@@ -37,5 +37,6 @@ Welcome to my learning log! Here, I document my daily progress, command-line che
 | **Nov 23, 2026** | Linux & Bandit (Lvl 11–14) | Decoded ROT13 (`tr`), unpacked nested archives/hexdumps (`xxd`, `gunzip`, `bunzip2`, `tar`), authenticated via SSH private key (`ssh -i`), and piped data to local ports (`nc`). |
 | **Nov 24, 2026** | Linux & Bandit (Lvl 15–17) | Connected over SSL/TLS (`openssl s_client`), scanned ports (`nmap -sV`), retrieved private keys via CLI pipelines, and compared files (`diff`). |
 | **Nov 25, 2026** | Linux & Bandit (Lvl 18–22) | Executed non-interactive SSH commands, exploited SUID binaries (`setuid`), used background Netcat listeners, and audited Linux `cron` jobs & dynamic MD5 script paths. |
+| **Nov 27, 2026** | Linux & Bandit (Lvl 23–25 — Milestone) | Wrote custom cron payload scripts to escalate privileges via `/var/spool/bandit24/foo` and scripted a 10,000-PIN brute-force loop with Bash and Netcat (`nc`). Completed Bandit Levels 0–25! |
 
 
