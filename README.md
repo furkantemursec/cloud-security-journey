@@ -10,7 +10,7 @@ Welcome to my learning log! Here, I document my daily progress, command-line che
 - [X] Basic navigation, file manipulation, and permissions (`chmod`, `chown`)
 - [ ] Process management & system monitoring (`ps`, `top`, `systemctl`)
 - [ ] Text processing & log filtering (`grep`, `awk`, `sed`)
-- [ ] Complete **OverTheWire: Bandit** (Levels 0–25)
+- [X] Complete **OverTheWire: Bandit** (Levels 0–25)
 - [ ] Write first Bash automation scripts
 
 #### Phase 2: Networking Fundamentals (Months 3–4)
